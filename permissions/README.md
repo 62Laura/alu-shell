@@ -1,1 +1,1 @@
-- `1-who_am_i`: This script prints the effective username of the current user.
+- `2-groups`: This script print groups of the current user
