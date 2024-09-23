@@ -1,1 +1,1 @@
-- `2-groups`: This script print groups of the current user
+- `3-new_owner`: This script  changes file owner to betty
