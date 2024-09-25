@@ -1,1 +1,1 @@
-- `3-new_owner`: This script  changes file owner to betty
+This is the README for the alu-zero_day repository.
